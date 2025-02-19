@@ -45,7 +45,7 @@ D. Recommend strategies for better budget allocation.
 ## Data Description
 The Marketing team has provided an Excel file containing Fresh Cart ad campaign data: 
  
-Ad Campaign Data
+Ad Campaign Data     
 _✓ CampaignID - Unique Identifier for each Campaign_     
 _✓ Platform - Where the ad was shown (e.g., Google Ads, Facebook, Instagram, Twitter, Third-Party sites etc.)_    
 _✓ AdDuration: Ad duration in weeks_     
