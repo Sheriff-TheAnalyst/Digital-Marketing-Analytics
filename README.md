@@ -8,6 +8,8 @@ Analyzed online grocery ad campaigns using Power BI to optimize spending and boo
 - Data Storytelling
 - Reporting and Recommendations
 
+**Date: January 24th, 2025**
+
 
 ## Business Overview/Problem
 FreshCart, like many e-commerce platforms, relies heavily on online advertising to acquire new customers and retain existing ones. However, in the midst of an increasingly competitive market and fluctuating ad costs, the company has identified two main challenges:
